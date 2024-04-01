@@ -1,0 +1,34 @@
+Akun 
+admin@gmail.com
+admin123
+
+Kategori
+ - Patung
+ - Vas
+ - Kamera
+ - Kompas
+
+
+Kamera Twin Lens Reflex (TLR)
+TLR merupakan singkatan dari Twin Lens Reflex, Kamera TLR dikembangkan oleh Franked dan Heidecke Rolleiflex pada 1928. Kamera ini sempat bertahan selama beberapa dekade dan cukup populer kala itu, sebelum terciptanya kamera SLR
+850000
+1
+5
+
+Kompas Sestrei kuno Antik
+Kompas Sestrei kuno Antik adalah sebuah artefak yang mencuri perhatian dengan keindahan dan keunikan desainnya. Kompas ini memiliki sejarah panjang dan menjadi saksi bisu perjalanan laut di zaman dahulu.
+200000
+0.3
+3
+
+Guci antik "Victorian Splendor"
+"Victorian Splendor" adalah Guci antik yang menawarkan keindahan dan kemewahan dari era Victoria. Dibuat dengan teliti menggunakan teknik dan bahan berkualitas tinggi, Guci ini adalah perwujudan sempurna dari keanggunan zaman dahulu.
+700000
+2.2
+8
+
+Patung Christopher Columbus
+Patung Christopher Columbus adalah patung yang menggambarkan tokoh sejarah terkenal, Christopher Columbus. Patung ini umumnya dibuat untuk menghormati penjelajah Genoa yang terkenal ini dan sebagai simbol peringatan penemuan Amerika oleh Columbus pada tahun 1492.
+1500000
+3
+2

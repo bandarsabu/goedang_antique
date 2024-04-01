@@ -1,0 +1,27 @@
+
+@import 'colors';
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.page-content {
+  margin-top: 10px;
+
+}
+
+footer {
+  border-top: 1px solid $gray; // #e4e4e4
+  margin-top: 150px;
+
+  p {
+    color: $darkgray; // #979797
+  }
+}
+
+.form-control {
+  background-color: $softgray; // #f3f3f3
+}
+
+.form-select {
+  background-color: $softgray;
+}
